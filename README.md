@@ -17,6 +17,8 @@ Abrí [`index.html`](./index.html) directamente en el navegador. No requiere bui
 
 - Inicio editorial y tablero de oportunidades.
 - Comunidad de noteros, fotógrafos, bandas y cronistas.
+- Portfolio fotográfico y videográfico por perfil.
+- Columnas de cronistas y periodistas.
+- Perfil de banda con agenda propia.
 - Agenda de shows con filtros.
 - Publicar una oportunidad o historia.
-
